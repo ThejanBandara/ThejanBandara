@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thejanbandara2@gmail.com**
 
-- ⚡ Fun fact **Everyone call me PANDA cz i'm chubby and lazy**
+- ⚡ Fun fact: **Everyone call me PANDA cz i'm chubby and lazy**
 
 <p align="center">
   <!--- stats (start) -->
