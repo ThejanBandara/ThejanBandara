@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+There!;I'm+Thejan+Bandara;I+❤️+Coding+</>;)](https://git.io/typing-svg)
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on **DineDocket**
+- 🔭 I’m currently working on **HeritageHands**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -27,8 +27,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thejan-bandara/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100076344870318&mibextid=ZbWKwL" target="blank"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://instagram.com/_thejan_bandara?igshid=OTk0YzhjMDVlZA==" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.behance.net/thejan-bandara" target="blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
