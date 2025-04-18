@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **thejanbandara2@gmail.com**
+- 📫 How to reach me **contact@thejanbandara.com**
 
 - ⚡ Fun fact: **Everyone call me PANDA cz i'm chubby and lazy**
 
