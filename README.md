@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+There!;I'm+Thejan+Bandara;I+❤️+Coding+</>;)](https://git.io/typing-svg)
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on **Nova Loom**
+- 🔭 I’m currently working on **Nova Loom LK**
 
 - 🌱 I’m currently learning **Docker**
 
